@@ -1,4 +1,4 @@
-# This is cool Desktop wallpapers  directory  🙂
+# This is cool Desktop wallpapers  directory 🙂
 
 - **I'm Penetration Tester,and as my profession requires, I work with many operation system and $userenv.Finding a good wallpaper is burdensome.Many of us have gone through same. So I decided to take this problem seriously and rest is history.**
 
