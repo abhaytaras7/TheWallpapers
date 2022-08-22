@@ -1,20 +1,15 @@
-
-name: Labeler
-on: [pull_request]
+name: "Pull Request Labeler"
+on:
+  - pull_request
 
 jobs:
   label:
-
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pull-requests: write
-
     steps:
-    - uses: actions/labeler@v4 
-      with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
-        
-        @newWallpaper:
-        - wallpapers/wallpapers/*
-        - wallpapers/wallpapers/**/*
+
+       
+      - uses: srvaroa/labeler@v0.8
+        with:
+          config_path: .github/labeler_config.yml
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"

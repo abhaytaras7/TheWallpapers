@@ -1,0 +1,14 @@
+version: 1
+labels:
+  - label: "newWallpaper"
+    files:
+      - "wallapapers/.*"
+      
+  - label: "enhancement"
+    files:
+      - ".github/.*"
+      
+  - label: "readme"
+    files:
+      - "README.MD*"
+       
