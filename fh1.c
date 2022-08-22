@@ -1,16 +1,14 @@
 #include <stdio.h>
 #include "ReqHeader.h"
-int main (int argc, char *argv[]) 
-{
+int main (int argc, char **argv){
 
-   printf("******------******\n\n");
+   printf("******--****\n\n");
 
    FILE *fp;  
    char ch;  
    fp = fopen("Store_Data.txt", "r+");
    
-      while ( 1 )  
-   {  
+      while ( 1 ) {  
    ch = fgetc ( fp ) ;  
    if ( ch == EOF )  
          break ;  
