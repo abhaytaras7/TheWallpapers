@@ -22,7 +22,7 @@ git clone https://github.com/abhaytaras7/wallpapers.git && sudo cp /wallpapers  
 Just add it your /wallpapers directory(folder)
 ```
 
----
+-------------------------
 
 ## Thanks to everyone who help to make this best 
 <a href = "https://github.com/abhaytaras7/wallpapers/graphs/contributors">
