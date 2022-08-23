@@ -8,3 +8,4 @@ The following is a set of guidelines for contributing to **WALLPAPERS and its pa
 - Make a new directory if needed
 - Size and Image quality should be high
 
+> NSFW wallpapers aren't allowed 
