@@ -26,7 +26,7 @@ Just add it your /wallpapers directory(folder)
 
 ## Thanks to everyone who help to make this best 
 <a href = "https://github.com/abhaytaras7/wallpapers/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=abhaytaras7/wallpapers"/>
+    <img src = "https://contrib.rocks/image?repo=abhaytaras7/wallpapers"/>
 </a>
 
  
